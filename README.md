@@ -1,1 +1,2 @@
-# SG-bingo
+# SG-bingo-generator
+INNOVATE NOW
